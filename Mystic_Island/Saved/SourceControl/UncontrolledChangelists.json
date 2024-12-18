@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/theka/OneDrive/Documents/Unreal Projects/Mystic_Island/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/theka/OneDrive/Documents/Unreal Projects/Mystic_Island/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/theka/OneDrive/Documents/GitHub/UE-Mystic-Island/Mystic_Island/Content/StarterContent/Maps/Advanced_Lighting.umap",
+				"C:/Users/theka/OneDrive/Documents/GitHub/UE-Mystic-Island/Mystic_Island/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/theka/OneDrive/Documents/GitHub/UE-Mystic-Island/Mystic_Island/Content/StarterContent/Maps/StarterMap.umap",
+				"C:/Users/theka/OneDrive/Documents/GitHub/UE-Mystic-Island/Mystic_Island/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/theka/OneDrive/Documents/GitHub/UE-Mystic-Island/Mystic_Island/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+				"C:/Users/theka/OneDrive/Documents/GitHub/UE-Mystic-Island/Mystic_Island/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
 			]
 		}
 	]
